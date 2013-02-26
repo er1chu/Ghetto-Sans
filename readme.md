@@ -1,5 +1,5 @@
 #Ghetto Sans
-My fork of an open-source typeface. Original created by the homie Justin Sloane but that dude ain't on Github so I thought it'd be chill to set this thing up.
+My fork of an open-source typeface that was started by the homie [Justin Sloane](http://justinsloane.com). That dude ain't on Github so I thought it'd be chill to set this thing up.
 
 ![Image of Drake](http://www.harsh-vi.bz/kenDrake.jpg)
 
